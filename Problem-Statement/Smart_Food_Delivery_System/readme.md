@@ -107,7 +107,8 @@ Only one Logger object exists throughout the application.
 
 ## 📊 UML Diagram
 
-https://chatgpt.com/s/m_6a26e0eac3748191807e974ef690d090
+<img width="1536" height="1024" alt="ChatGPT Image Jun 8, 2026, 09_08_34 PM" src="https://github.com/user-attachments/assets/b9ce8de9-9b1a-493b-aa2c-ffbf3e861125" />
+
 ## 💻 Implementation
 
 ```java
